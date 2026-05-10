@@ -40,7 +40,7 @@ Entry-level software roles pay **KES 50,000–200,000/month**. AI-skilled roles 
 **Status:** 🔲 Not Started
 
 #### What You'll Learn
-- [ ] How the internet works (IP, DNS, HTTP/HTTPS)
+- [x] How the internet works (IP, DNS, HTTP/HTTPS)
 - [ ] OSI Model — the 7 layers, in plain English
 - [ ] TCP vs UDP — when each is used
 - [ ] Subnetting basics (IP address ranges)
